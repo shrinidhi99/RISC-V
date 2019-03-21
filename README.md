@@ -8,6 +8,7 @@ Team :
 Date of writing program : 4/09/2018 - 6/09/2018
 
 Note:
+
 1)The .out.s and a.out which were created during compilation time were removed before submitting the assignment .
 2)Snapshots have been taken during key stages of execution to show the changes that took place in the corresponding register files that were used in the RISC V code
 3)Please compile and execute the code to generate the corresponding .out.s and a.out files
